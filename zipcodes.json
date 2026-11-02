@@ -1,0 +1,1262 @@
+{
+"2423945": {
+"city": "Honolulu",
+"state": "HI",
+"country": "US",
+"code": "USHI0026"
+},
+"2354490": {
+"city": "Anchorage",
+"state": "AK",
+"country": "US",
+"code": "USAK0012"
+},
+"2442047": {
+"city": "Los Angeles",
+"state": "CA",
+"country": "US",
+"code": "USCA0638"
+},
+"9807": {
+"city": "Vancouver",
+"state": "British Columbia",
+"country": "Canada",
+"code": "CAXX0518"
+},
+"2487956": {
+"city": "San Francisco",
+"state": "CA",
+"country": "US",
+"code": "USCA0987"
+},
+"2490383": {
+"city": "Seattle",
+"state": "WA",
+"country": "US",
+"code": "USWA0395"
+},
+"2388327": {
+"city": "Cupertino",
+"state": "CA",
+"country": "US",
+"code": "USCA0273"
+},
+"2487889": {
+"city": "San Diego",
+"state": "CA",
+"country": "US",
+"code": "USCA0982"
+},
+"2475687": {
+"city": "Portland",
+"state": "OR",
+"country": "US",
+"code": "USOR0275"
+},
+"2471390": {
+"city": "Phoenix",
+"state": "AZ",
+"country": "US",
+"code": "USAZ0166"
+},
+"8775": {
+"city": "Calgary",
+"state": "Alberta",
+"country": "Canada",
+"code": "CAXX0054"
+},
+"2487610": {
+"city": "Salt Lake City",
+"state": "UT",
+"country": "US",
+"code": "USUT0225"
+},
+"2391279": {
+"city": "Denver",
+"state": "CO",
+"country": "US",
+"code": "USCO0105"
+},
+"116545": {
+"city": "Mexico City",
+"state": "Distrito Federal",
+"country": "Mexico",
+"code": "MXDF0403"
+},
+"2436704": {
+"city": "Las Vegas",
+"state": "NV",
+"country": "US",
+"code": "USNV0049"
+},
+"2379574": {
+"city": "Chicago",
+"state": "IL",
+"country": "US",
+"code": "USIL0225"
+},
+"79825": {
+"city": "San Salvador",
+"state": "San Salvador",
+"country": "El Salvador",
+"code": "ESXX0001"
+},
+"153523": {
+"city": "Managua",
+"state": "Managua",
+"country": "Nicaragua",
+"code": "NUXX0004"
+},
+"107681": {
+"city": "Tegucigalpa",
+"state": "Francisco Morazán",
+"country": "Honduras",
+"code": "HOXX0008"
+},
+"83123": {
+"city": "Guatemala City",
+"state": "Guatemala",
+"country": "Guatemala",
+"code": "GTXX0002"
+},
+"2972": {
+"city": "Winnipeg",
+"state": "Manitoba",
+"country": "Canada",
+"code": "CAXX0547"
+},
+"2512": {
+"city": "Regina",
+"state": "Saskatchewan",
+"country": "Canada",
+"code": "CAXX0397"
+},
+"2388929": {
+"city": "Dallas",
+"state": "TX",
+"country": "US",
+"code": "USTX0327"
+},
+"2452078": {
+"city": "Minneapolis",
+"state": "MN",
+"country": "US",
+"code": "USMN0503"
+},
+"2424766": {
+"city": "Houston",
+"state": "TX",
+"country": "US",
+"code": "USTX0617"
+},
+"59426": {
+"city": "San Jose",
+"state": "San Jose",
+"country": "Costa Rica",
+"code": "ARCT9005"
+},
+"2357536": {
+"city": "Austin",
+"state": "TX",
+"country": "US",
+"code": "USTX0057"
+},
+"2486982": {
+"city": "St. Louis",
+"state": "MO",
+"country": "US",
+"code": "USMO0787"
+},
+"2449323": {
+"city": "Memphis",
+"state": "TN",
+"country": "US",
+"code": "USTN0325"
+},
+"2459115": {
+"city": "New York",
+"state": "NY",
+"country": "US",
+"code": "USNY0996"
+},
+"418440": {
+"city": "Lima",
+"state": "Lima Metropolitan Area",
+"country": "Peru",
+"code": "ARBA2806"
+},
+"368148": {
+"city": "Bogota",
+"state": "Distrito Especial",
+"country": "Colombia",
+"code": "COXX0004"
+},
+"4118": {
+"city": "Toronto",
+"state": "Ontario",
+"country": "Canada",
+"code": "CAXX0504"
+},
+"159386": {
+"city": "Panama City",
+"state": "Panama",
+"country": "Panama",
+"code": "PMXX0004"
+},
+"3534": {
+"city": "Montreal",
+"state": "Quebec",
+"country": "Canada",
+"code": "CAXX0301"
+},
+"63817": {
+"city": "Havana",
+"state": "Ciudad de la Habana",
+"country": "Cuba",
+"code": "CUXX0003"
+},
+"375732": {
+"city": "Quito",
+"state": "Pichincha",
+"country": "Ecuador",
+"code": "ECXX0008"
+},
+"2471217": {
+"city": "Philadelphia",
+"state": "PA",
+"country": "US",
+"code": "USPA1276"
+},
+"3369": {
+"city": "Ottawa",
+"state": "Ontario",
+"country": "Canada",
+"code": "CAXX0343"
+},
+"2427032": {
+"city": "Indianapolis",
+"state": "IN",
+"country": "US",
+"code": "USIN0305"
+},
+"96110": {
+"city": "Port-au-Prince",
+"state": "Ouest",
+"country": "Haiti",
+"code": "HAXX0004"
+},
+"2514815": {
+"city": "Washington",
+"state": "DC",
+"country": "US",
+"code": "USDC0001"
+},
+"2383660": {
+"city": "Columbus",
+"state": "OH",
+"country": "US",
+"code": "USOH0212"
+},
+"2433662": {
+"city": "Knoxville",
+"state": "TN",
+"country": "US",
+"code": "USTN0268"
+},
+"2365044": {
+"city": "Blacksburg",
+"state": "VA",
+"country": "US",
+"code": "USVA0068"
+},
+"2444674": {
+"city": "Manchester",
+"state": "NH",
+"country": "US",
+"code": "USNH0136"
+},
+"2367105": {
+"city": "Boston",
+"state": "MA",
+"country": "US",
+"code": "USMA0046"
+},
+"2450022": {
+"city": "Miami",
+"state": "FL",
+"country": "US",
+"code": "USFL0316"
+},
+"2357024": {
+"city": "Atlanta",
+"state": "GA",
+"country": "US",
+"code": "USGA0028"
+},
+"2391585": {
+"city": "Detroit",
+"state": "MI",
+"country": "US",
+"code": "USMI0229"
+},
+"349859": {
+"city": "Santiago",
+"state": "Santiago",
+"country": "Chile",
+"code": "CIXX0011"
+},
+"76456": {
+"city": "Santo Domingo",
+"state": "Distrito Nacional",
+"country": "Dominican Republic",
+"code": "DRXX0009"
+},
+"395269": {
+"city": "Caracas",
+"state": "Distrito Federal",
+"country": "Venezuela",
+"code": "VEXX0008"
+},
+"346057": {
+"city": "La Paz",
+"state": "La Paz",
+"country": "Bolivia",
+"code": "BLXX0006"
+},
+"379176": {
+"city": "Asuncion",
+"state": "Asunción",
+"country": "Paraguay",
+"code": "PAXX0001"
+},
+"161685": {
+"city": "San Juan",
+"state": "PR",
+"country": "US",
+"code": "USPR0087"
+},
+"4177": {
+"city": "Halifax",
+"state": "Nova Scotia",
+"country": "Canada",
+"code": "CAXX0183"
+},
+"376765": {
+"city": "Georgetown",
+"state": "Demerara-Mahaica",
+"country": "Guyana",
+"code": "GYXX0001"
+},
+"3996": {
+"city": "St. John's",
+"state": "Newfoundland and Labrador",
+"country": "Canada",
+"code": "CAXX0310"
+},
+"56334": {
+"city": "Bridgetown",
+"state": "Saint Michael",
+"country": "Barbados",
+"code": "BBXX0001"
+},
+"455825": {
+"city": "Rio de Janeiro",
+"state": "Rio de Janeiro",
+"country": "Brazil",
+"code": "BRXX0201"
+},
+"468739": {
+"city": "Buenos Aires",
+"state": "Ciudad de Buenos Aires",
+"country": "Argentina",
+"code": "ARSF3070"
+},
+"458066": {
+"city": "Sao",
+"state": "Maranhao",
+"country": "Brazil",
+"code": "BRXX3525"
+},
+"455819": {
+"city": "Brasilia",
+"state": "Distrito Federal",
+"country": "Brazil",
+"code": "BRXX0043"
+},
+"455824": {
+"city": "Recife",
+"state": "Pernambuco",
+"country": "Brazil",
+"code": "BRXX0195"
+},
+"468052": {
+"city": "Montevideo",
+"state": "Montevideo",
+"country": "Uruguay",
+"code": "UYXX0006"
+},
+"377227": {
+"city": "Paramaribo",
+"state": "Paramaribo",
+"country": "Suriname",
+"code": "NSXX0002"
+},
+"379832": {
+"city": "Cayenne",
+"state": "Cayenne",
+"country": "French Guyana",
+"code": "FGXX0001"
+},
+"472856": {
+"city": "Nuuk",
+"state": "Vestgronland",
+"country": "Greenland",
+"code": "GLXX0003"
+},
+"538216": {
+"city": "Ponta Delgada",
+"state": "Azores",
+"country": "Portugal",
+"code": "POXX0020"
+},
+"44418": {
+"city": "London",
+"state": "England",
+"country": "United Kingdom",
+"code": "UKXX0318"
+},
+"1411986": {
+"city": "Dakar",
+"state": "Dakar",
+"country": "Senegal",
+"code": "SGXX0001"
+},
+"1326075": {
+"city": "Accra",
+"state": "Greater Accra",
+"country": "Ghana",
+"code": "GHXX0001"
+},
+"1334760": {
+"city": "Conakry",
+"state": "Conakry",
+"country": "Guinea",
+"code": "GVXX0002"
+},
+"1461080": {
+"city": "Ouagadougou",
+"state": "Kadiogo",
+"country": "Burkina Faso",
+"code": "UVXX0001"
+},
+"560743": {
+"city": "Dublin",
+"state": "Ireland",
+"country": "US",
+"code": "EIXX0014"
+},
+"1369729": {
+"city": "Bamako",
+"state": "Bamako",
+"country": "Mali",
+"code": "MLXX0001"
+},
+"1350536": {
+"city": "Monrovia",
+"state": "Monrovia",
+"country": "Liberia",
+"code": "LIXX0002"
+},
+"1419467": {
+"city": "Freetown",
+"state": "Western Area",
+"country": "Sierra Leone",
+"code": "SLXX0001"
+},
+"1504735": {
+"city": "Nouakchott",
+"state": "Nouakchott",
+"country": "Mauritania",
+"code": "MRXX0004"
+},
+"1539359": {
+"city": "Rabat",
+"state": "Rabat-Sale",
+"country": "Morocco",
+"code": "MOXX0007"
+},
+"560472": {
+"city": "Cork",
+"state": "Ireland",
+"country": "US",
+"code": "EIXX0011"
+},
+"742676": {
+"city": "Lisbon",
+"state": "Lisbon",
+"country": "Portugal",
+"code": "POXX0039"
+},
+"19344": {
+"city": "Edinburgh",
+"state": "Scotland",
+"country": "United Kingdom",
+"code": "UKXX1457"
+},
+"15127": {
+"city": "Cardiff",
+"state": "Wales",
+"country": "United Kingdom",
+"code": "UKXX0030"
+},
+"980389": {
+"city": "Reykjavik",
+"state": "Reykjavik",
+"country": "Iceland",
+"code": "ICXX0002"
+},
+"1398823": {
+"city": "Lagos",
+"state": "Lagos",
+"country": "Nigeria",
+"code": "NIXX0012"
+},
+"1290062": {
+"city": "Kinshasa",
+"state": "Kinshasa",
+"country": "Democratic Republic of Congo",
+"code": "CGXX0005"
+},
+"766273": {
+"city": "Madrid",
+"state": "Madrid",
+"country": "Spain",
+"code": "SPXX0050"
+},
+"638242": {
+"city": "Berlin",
+"state": "Berlin",
+"country": "Germany",
+"code": "GMXX0007"
+},
+"1261906": {
+"city": "Luanda",
+"state": "Luanda",
+"country": "Angola",
+"code": "AOXX0008"
+},
+"721943": {
+"city": "Rome",
+"state": "Lazio",
+"country": "Italy",
+"code": "ITXX0067"
+},
+"615702": {
+"city": "Paris",
+"state": "Ile-de-France",
+"country": "France",
+"code": "FRXX0295"
+},
+"1253079": {
+"city": "Algiers",
+"state": "Alger",
+"country": "Algeria",
+"code": "AGXX0001"
+},
+"1478198": {
+"city": "Douala",
+"state": "Littoral",
+"country": "Cameroon",
+"code": "CMXX0003"
+},
+"906057": {
+"city": "Stockholm",
+"state": "Stockholm",
+"country": "Sweden",
+"code": "SWXX0031"
+},
+"656958": {
+"city": "Hamburg",
+"state": "Hamburg",
+"country": "Germany",
+"code": "GMXX2496"
+},
+"551801": {
+"city": "Vienna",
+"state": "Vienna",
+"country": "Austria",
+"code": "AUXX0017"
+},
+"804365": {
+"city": "Budapest",
+"state": "Budapest",
+"country": "Hungary",
+"code": "HUXX0002"
+},
+"523920": {
+"city": "Warsaw",
+"state": "Mazowieckie",
+"country": "Poland",
+"code": "PLXX0028"
+},
+"676757": {
+"city": "Munich",
+"state": "Bavaria",
+"country": "Germany",
+"code": "GMXX3042"
+},
+"784794": {
+"city": "Zurich",
+"state": "Canton of Zurich",
+"country": "Switzerland",
+"code": "SZXX0033"
+},
+"1353281": {
+"city": "Tripoli",
+"state": "Tsarrbuus",
+"country": "Libya",
+"code": "LYXX0009"
+},
+"796597": {
+"city": "Prague",
+"state": "Hlavni mesto Praha",
+"country": "Czech Republic",
+"code": "EZXX0012"
+},
+"2361638": {
+"city": "Belgrade",
+"state": "MT",
+"country": "US",
+"code": "USMT0040"
+},
+"968019": {
+"city": "Bruxelles",
+"state": "Vlaams Brabant",
+"country": "Belgium",
+"code": "BEXX0024"
+},
+"1442746": {
+"city": "Tunis",
+"state": "Tunis",
+"country": "Tunisia",
+"code": "TSXX0010"
+},
+"1277402": {
+"city": "N'Djamena",
+"state": "Chari-Baguirmi",
+"country": "Chad",
+"code": "CDXX0003"
+},
+"727232": {
+"city": "Amsterdam",
+"state": "North Holland",
+"country": "Netherlands",
+"code": "NLXX0002"
+},
+"1306666": {
+"city": "Bangui",
+"state": "Bangui",
+"country": "Central African Republic",
+"code": "CTXX0001"
+},
+"862592": {
+"city": "Oslo",
+"state": "Oslo Fylke",
+"country": "Norway",
+"code": "NOXX0029"
+},
+"554890": {
+"city": "Copenhagen",
+"state": "Hovedstaden",
+"country": "Denmark",
+"code": "DAXX0009"
+},
+"782538": {
+"city": "Geneva",
+"state": "Canton of Geneva",
+"country": "Switzerland",
+"code": "SZXX0008"
+},
+"818717": {
+"city": "Bratislava",
+"state": "Bratislavsky",
+"country": "Slovakia",
+"code": "LOXX0001"
+},
+"851128": {
+"city": "Zagreb",
+"state": "Grad Zagreb",
+"country": "Croatia",
+"code": "HRXX0005"
+},
+"530634": {
+"city": "Ljubljana",
+"state": "Ljubljana",
+"country": "Slovenia",
+"code": "SIXX0002"
+},
+"2344116": {
+"city": "Istanbul",
+"state": "Istanbul",
+"country": "Turkey",
+"code": "TUXX0014"
+},
+"1521894": {
+"city": "Cairo",
+"state": "Al Qahirah",
+"country": "Egypt",
+"code": "EGXX0004"
+},
+"2343732": {
+"city": "Ankara",
+"state": "Ankara",
+"country": "Turkey",
+"code": "TUXX0002"
+},
+"1591691": {
+"city": "Cape Town",
+"state": "Western Cape",
+"country": "South Africa",
+"code": "SFXX0010"
+},
+"1433559": {
+"city": "Khartoum",
+"state": "Al Khartum",
+"country": "Sudan",
+"code": "SUXX0002"
+},
+"924938": {
+"city": "Kiev",
+"state": "Kyyiv, Misto",
+"country": "Ukraine",
+"code": "UPXX0016"
+},
+"1960307": {
+"city": "Beirut",
+"state": "Bayrut",
+"country": "Lebanon",
+"code": "LEXX0003"
+},
+"868274": {
+"city": "Bucharest",
+"state": "Bucuresti",
+"country": "Romania",
+"code": "ROXX0003"
+},
+"1569006": {
+"city": "Lusaka",
+"state": "Lusaka",
+"country": "Zambia",
+"code": "ZAXX0004"
+},
+"1467052": {
+"city": "Harare",
+"state": "Harare",
+"country": "Zimbabwe",
+"code": "ZIXX0004"
+},
+"1968902": {
+"city": "Amman",
+"state": "'Amman",
+"country": "Jordan",
+"code": "JOXX0002"
+},
+"839722": {
+"city": "Sofia",
+"state": "Sofiya-Grad",
+"country": "Bulgaria",
+"code": "BUXX0005"
+},
+"1550363": {
+"city": "Maputo",
+"state": "Maputo",
+"country": "Mozambique",
+"code": "MZXX0003"
+},
+"1968222": {
+"city": "Jerusalem",
+"state": "Yerushalayim",
+"country": "Israel",
+"code": "ISXX0010"
+},
+"946738": {
+"city": "Athens",
+"state": "Attiki",
+"country": "Greece",
+"code": "GRXX0004"
+},
+"565346": {
+"city": "Helsinki",
+"state": "Southern Finland",
+"country": "Finland",
+"code": "FIXX0002"
+},
+"2122265": {
+"city": "Moscow",
+"state": "Moskva",
+"country": "Russia",
+"code": "RSXX0063"
+},
+"1979455": {
+"city": "Baghdad",
+"state": "Baghdad",
+"country": "Iraq",
+"code": "IZXX0008"
+},
+"1358594": {
+"city": "Antananarivo",
+"state": "Antananarivo",
+"country": "Madagascar",
+"code": "MAXX0002"
+},
+"1939753": {
+"city": "Riyadh",
+"state": "Ar Riyad",
+"country": "Saudi Arabia",
+"code": "SAXX0017"
+},
+"2123260": {
+"city": "St. Petersburg",
+"state": "St. Peterburg",
+"country": "Russia",
+"code": "RSXX0089"
+},
+"1313090": {
+"city": "Addis Ababa",
+"state": "Debub Shewa",
+"country": "Ethiopia",
+"code": "ETXX0001"
+},
+"1528488": {
+"city": "Nairobi",
+"state": "Nairobi Area",
+"country": "Kenya",
+"code": "KEXX0009"
+},
+"1443415": {
+"city": "Dar es Salaam",
+"state": "Dar es Salaam",
+"country": "Tanzania",
+"code": "TZXX0001"
+},
+"2124298": {
+"city": "Volgograd",
+"state": "Volgogradskaya Oblast",
+"country": "Russia",
+"code": "RSXX0117"
+},
+"1958237": {
+"city": "San'a",
+"state": "San`a´",
+"country": "Yemen",
+"code": "YMXX0005"
+},
+"1428567": {
+"city": "Mogadisho",
+"state": "Banaadir",
+"country": "Somalia",
+"code": "SOXX0002"
+},
+"1947122": {
+"city": "Damascus",
+"state": "Dimashq",
+"country": "Syria",
+"code": "SYXX0004"
+},
+"1451962": {
+"city": "Kampala",
+"state": "Kampala",
+"country": "Uganda",
+"code": "UGXX0002"
+},
+"1939897": {
+"city": "Makkah",
+"state": "Makka",
+"country": "Saudi Arabia",
+"code": "SAXX0013"
+},
+"1312120": {
+"city": "Asmara",
+"state": "Maekel",
+"country": "Eritrea",
+"code": "ERXX0001"
+},
+"1940631": {
+"city": "Kuwait City",
+"state": "Al Asimah",
+"country": "Kuwait",
+"code": "KUXX0003"
+},
+"1940517": {
+"city": "Doha",
+"state": "Ad Dawhah",
+"country": "Qatar",
+"code": "QAXX0003"
+},
+"1967057": {
+"city": "Manama",
+"state": "Al Manamah",
+"country": "Bahrain",
+"code": "BAXX0001"
+},
+"2251945": {
+"city": "Tehran",
+"state": "Tehran",
+"country": "Iran",
+"code": "IRXX0018"
+},
+"2214662": {
+"city": "Yerevan",
+"state": "Yerevan",
+"country": "Armenia",
+"code": "AMXX0003"
+},
+"1951874": {
+"city": "Baku",
+"state": "Baki",
+"country": "Azerbaijan",
+"code": "AJXX0001"
+},
+"1940330": {
+"city": "Abu Dhabi",
+"state": "Abu Zaby",
+"country": "United Arab Emirates",
+"code": "AEXX0001"
+},
+"2268284": {
+"city": "Muscat",
+"state": "Masqat",
+"country": "Oman",
+"code": "MUXX0001"
+},
+"1377436": {
+"city": "Port Louis",
+"state": "Port Louis",
+"country": "Mauritius",
+"code": "GPXX0004"
+},
+"1411024": {
+"city": "Victoria",
+"state": "English River",
+"country": "Seychelles",
+"code": "SEXX0001"
+},
+"1922738": {
+"city": "Kabul",
+"state": "Kabul",
+"country": "Afghanistan",
+"code": "AFXX0003"
+},
+"2272113": {
+"city": "Tashkent",
+"state": "Toshkent",
+"country": "Uzbekistan",
+"code": "UZXX0004"
+},
+"2112237": {
+"city": "Yekaterinburg",
+"state": "Sverdlovskaya Oblast",
+"country": "Russia",
+"code": "RSXX0123"
+},
+"1935520": {
+"city": "Ashgabat",
+"state": "Ashkhabad",
+"country": "Turkmenistan",
+"code": "TXXX0002"
+},
+"2211027": {
+"city": "Islamabad",
+"state": "Islamabad",
+"country": "Pakistan",
+"code": "PKXX0006"
+},
+"2268295": {
+"city": "Male",
+"state": "Maale",
+"country": "Maldives",
+"code": "MVXX0001"
+},
+"2295411": {
+"city": "Mumbai",
+"state": "Maharashtra",
+"country": "India",
+"code": "INXX0026"
+},
+"2295386": {
+"city": "Kolkata",
+"state": "West Bengal",
+"country": "India",
+"code": "INXX0028"
+},
+"2295424": {
+"city": "Chennai",
+"state": "Tamil Nadu",
+"country": "India",
+"code": "INXX0075"
+},
+"457052": {
+"city": "Itapecuru-Mirim",
+"state": "Maranhao",
+"country": "Brazil",
+"code": "BRXX2159"
+},
+"2189783": {
+"city": "Colombo",
+"state": "Western",
+"country": "Sri Lanka",
+"code": "CEXX0001"
+},
+"2295019": {
+"city": "New Delhi",
+"state": "Delhi",
+"country": "India",
+"code": "INXX0038"
+},
+"2269179": {
+"city": "Kathmandu",
+"state": "Central",
+"country": "Nepal",
+"code": "NPXX0002"
+},
+"1915035": {
+"city": "Dhaka",
+"state": "Dhaka",
+"country": "Bangladesh",
+"code": "BGXX0003"
+},
+"2122541": {
+"city": "Novosibirsk",
+"state": "Novosibirskaya Oblast",
+"country": "Russia",
+"code": "RSXX0077"
+},
+"2122641": {
+"city": "Omsk",
+"state": "Omskaya Oblast",
+"country": "Russia",
+"code": "RSXX0080"
+},
+"1015662": {
+"city": "Yangon",
+"state": "Yangon",
+"country": "Myanmar",
+"code": "BMXX0004"
+},
+"1047378": {
+"city": "Jakarta",
+"state": "Jakarta Raya",
+"country": "Indonesia",
+"code": "IDXX0022"
+},
+"1225448": {
+"city": "Bangkok",
+"state": "Bangkok",
+"country": "Thailand",
+"code": "THXX0002"
+},
+"1247343": {
+"city": "Ho Chi Minh City",
+"state": "Ho Chi Minh",
+"country": "Vietnam",
+"code": "VMXX0007"
+},
+"2029043": {
+"city": "Krasnoyarsk",
+"state": "Krasnoyarskiy Kray",
+"country": "Russia",
+"code": "RSXX0267"
+},
+"1236594": {
+"city": "Hanoi",
+"state": "Ha Noi",
+"country": "Vietnam",
+"code": "VMXX0006"
+},
+"1020985": {
+"city": "Phnom Penh",
+"state": "Phnum Penh",
+"country": "Cambodia",
+"code": "CBXX0001"
+},
+"2151849": {
+"city": "Shanghai",
+"state": "Shanghai",
+"country": "China",
+"code": "CHXX0116"
+},
+"2151330": {
+"city": "Beijing",
+"state": "Beijing",
+"country": "China",
+"code": "CHXX0008"
+},
+"1199477": {
+"city": "Manila",
+"state": "National Capital Region",
+"country": "Philippines",
+"code": "RPXX0003"
+},
+"2165352": {
+"city": "Hong Kong",
+"state": "Hong Kong Island",
+"country": "Hong Kong",
+"code": "CHXX0049"
+},
+"1062617": {
+"city": "Singapore",
+"state": "Central Singapore",
+"country": "Singapore",
+"code": "SNXX0006"
+},
+"2159908": {
+"city": "Tianjin",
+"state": "Tianjin",
+"country": "China",
+"code": "CHXX0133"
+},
+"2161838": {
+"city": "Guangzhou",
+"state": "Guangdong",
+"country": "China",
+"code": "CHXX0037"
+},
+"2306179": {
+"city": "Taipei City",
+"state": "Taipei City",
+"country": "Taiwan",
+"code": "TWXX0021"
+},
+"1154781": {
+"city": "Kuala Lumpur",
+"state": "Wilayah Persekutuan",
+"country": "Malaysia",
+"code": "MYXX0008"
+},
+"2266535": {
+"city": "Ulan Bator",
+"state": "Ulaanbaatar",
+"country": "Mongolia",
+"code": "MGXX0003"
+},
+"1098081": {
+"city": "Perth",
+"state": "Western Australia",
+"country": "Australia",
+"code": "ASXX0231"
+},
+"1118370": {
+"city": "Tokyo",
+"state": "Tokyo Prefecture",
+"country": "Japan",
+"code": "JAXX0085"
+},
+"1132599": {
+"city": "Seoul",
+"state": "Seoul",
+"country": "South Korea",
+"code": "KSXX0037"
+},
+"15015370": {
+"city": "Osaka-shi",
+"state": "Osaka Prefecture",
+"country": "Japan",
+"code": "JAXX0071"
+},
+"1079132": {
+"city": "Pyongyang",
+"state": "P´yongyang-si",
+"country": "North Korea",
+"code": "KNXX0006"
+},
+"2110973": {
+"city": "Yakutsk",
+"state": "Sakha",
+"country": "Russia",
+"code": "RSXX0122"
+},
+"1099805": {
+"city": "Adelaide",
+"state": "South Australia",
+"country": "Australia",
+"code": "ASXX0001"
+},
+"1101597": {
+"city": "Darwin",
+"state": "Northern Territory",
+"country": "Australia",
+"code": "ASXX0032"
+},
+"1105779": {
+"city": "Sydney",
+"state": "New South Wales",
+"country": "Australia",
+"code": "ASXX0086"
+},
+"1103816": {
+"city": "Melbourne",
+"state": "Victoria",
+"country": "Australia",
+"code": "ASXX0075"
+},
+"1100661": {
+"city": "Brisbane",
+"state": "Queensland",
+"country": "Australia",
+"code": "ASXX0220"
+},
+"2124288": {
+"city": "Vladivostok",
+"state": "Primorskiy Kray",
+"country": "Russia",
+"code": "RSXX0116"
+},
+"1100968": {
+"city": "Canberra",
+"state": "Australian Capital Territory",
+"country": "Australia",
+"code": "ASXX0056"
+},
+"1102670": {
+"city": "Hobart",
+"state": "Tasmania",
+"country": "Australia",
+"code": "ASXX0057"
+},
+"2122039": {
+"city": "Magadan",
+"state": "Magadanskaya Oblast",
+"country": "Russia",
+"code": "RSXX0057"
+},
+"1049640": {
+"city": "Noumea",
+"state": "Sud",
+"country": "New Caledonia",
+"code": "NCXX0006"
+},
+"2351310": {
+"city": "Wellington",
+"state": "Wellington",
+"country": "New Zealand",
+"code": "NZXX0049"
+},
+"1982503": {
+"city": "Anadyr'",
+"state": "Chukotskiy Avtonomnyy Okrug",
+"country": "Russia",
+"code": "RSXX0003"
+},
+"1062841": {
+"city": "Pago Pago",
+"state": "AS",
+"country": "US",
+"code": "USAS0001"
+},
+"2351864": {
+"city": "Adak",
+"state": "AK",
+"country": "US",
+"code": "USAK0001"
+}
+}

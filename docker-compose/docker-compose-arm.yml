@@ -1,0 +1,15 @@
+services:
+  dashboard-mock:
+    image: bugprogrammer/dashboard_fix:latest_arm64
+    container_name: dashboard_fix
+    restart: unless-stopped
+    # Must be host port 80: the old widgets call http://<host>/... and an
+    # /etc/hosts (or dnsmasq) entry cannot specify a port.
+    ports:
+      - "80:80"
+    # Translation uses Baidu only (free standard tier, QPS=1).
+    # Get APP ID + secret at https://fanyi-api.baidu.com/ (open 通用文本翻译).
+    # If unset, translation fails open and the widget echoes the source text.
+    environment:
+      - BAIDU_APPID=${BAIDU_APPID:-}
+      - BAIDU_KEY=${BAIDU_KEY:-}
